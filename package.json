@@ -1,5 +1,5 @@
 {
-  "name": "mnotify",
+  "name": "mnotify-node",
   "version": "1.0.0",
   "description": "mNotify nodeJS connector",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/commisol/mnotify.git"
+    "url": "git+https://github.com/commisol/mnotify-node.git"
   },
   "keywords": [
     "mnotify",
@@ -18,9 +18,9 @@
   "author": "Joshua Commey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/commisol/mnotify/issues"
+    "url": "https://github.com/commisol/mnotify-node/issues"
   },
-  "homepage": "https://github.com/commisol/mnotify#readme",
+  "homepage": "https://github.com/commisol/mnotify-node#readme",
   "dependencies": {
     "axios": "^0.21.0"
   }

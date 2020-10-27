@@ -105,9 +105,9 @@ class mNotify{
 	* @field date dob --> Date of birth of contact in YYYY-MM-DD format
 	* @return {Promise}
 	*/
-	async addContact(params){
-		let {group_id} = params;
-		return await this._post("contact" + "/" + group_id, {params})
+	async addContact(payload){
+		let {group_id} = payload;
+		return await this._post("contact" + "/" + group_id, payload)
 	}
 
 	/**
@@ -233,7 +233,7 @@ class mNotify{
 				request = await axios.put(url, payload)
 				break;
 			case "DELETE":
-				request = await axios.delete(url, {params: payload})
+				request = await axios.delete(url, {payload: payload})
 				break;
 		}
 		return request
