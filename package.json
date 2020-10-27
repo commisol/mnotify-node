@@ -1,0 +1,27 @@
+{
+  "name": "mnotify",
+  "version": "1.0.0",
+  "description": "mNotify nodeJS connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commisol/mnotify.git"
+  },
+  "keywords": [
+    "mnotify",
+    "sms",
+    "ghana"
+  ],
+  "author": "Joshua Commey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/commisol/mnotify/issues"
+  },
+  "homepage": "https://github.com/commisol/mnotify#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}

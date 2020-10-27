@@ -1,2 +1,2 @@
 # mnotify
-mNotify nodeJs Connector
+mNotify nodeJS Connector
