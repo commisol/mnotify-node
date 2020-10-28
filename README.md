@@ -4,6 +4,9 @@ mNotify nodeJS Connector
 [![npm version](https://img.shields.io/npm/v/mnotify-node.svg?style=flat-square)](https://www.npmjs.org/package/mnotify-node)
 [![install size](https://packagephobia.com/badge?p=mnotify-node)](https://packagephobia.com/result?p=mnotify-node)
 [![npm downloads](https://img.shields.io/npm/dm/mnotify-node.svg?style=flat-square)](http://npm-stat.com/charts.html?package=mnotify-node)
+![GitHub last commit](https://img.shields.io/github/last-commit/commisol/mnotify-node)
+![GitHub top language](https://img.shields.io/github/languages/top/commisol/mnotify-node)
+![GitHub](https://img.shields.io/github/license/commisol/mnotify-node)
 
 Full documentation can be found at https://readthedocs.mnotify.com
 
