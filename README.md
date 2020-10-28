@@ -1,6 +1,10 @@
 # mnotify-node
 mNotify nodeJS Connector
 
+[![npm version](https://img.shields.io/npm/v/mnotify-node.svg?style=flat-square)](https://www.npmjs.org/package/mnotify-node)
+[![install size](https://packagephobia.com/badge?p=mnotify-node)](https://packagephobia.com/result?p=mnotify-node)
+[![npm downloads](https://img.shields.io/npm/dm/mnotify-node.svg?style=flat-square)](http://npm-stat.com/charts.html?package=mnotify-node)
+
 Full documentation can be found at https://readthedocs.mnotify.com
 
 ## Installing
