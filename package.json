@@ -23,5 +23,6 @@
   "homepage": "https://github.com/commisol/mnotify-node#readme",
   "dependencies": {
     "axios": "^0.21.0"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
